@@ -15,7 +15,7 @@ See instructions. Delete this line and replace with the name(s) of the stakehold
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+[App Name] aims to transform the culinary experience for young professionals by generating personalized recipes based on the ingredients available in their fridge, encouraging resourcefulness, saving time, and reducing food waste– paving the way for a sustainable and efficient kitchen. 
 
 ## User Requirements
 
