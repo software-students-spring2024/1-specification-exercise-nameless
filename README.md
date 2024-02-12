@@ -38,7 +38,7 @@ SnapCook aims to transform the culinary experience for young professionals by ge
 
 ## Wireframe Diagrams
 
-![Wireframe Diagram](https://imgur.com/a/RgYy9hu)
+![Wireframe Diagram](https://imgur.com/DNybUrF.png)
 
 -   **Login Screen**\
     ![Login Screen Picture](https://i.imgur.com/DPVbmDx.png)
