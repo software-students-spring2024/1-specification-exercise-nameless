@@ -33,13 +33,15 @@ SnapCook aims to transform the culinary experience for young professionals by ge
 ## Activity Diagrams
 
 1. As a user, I want the app to suggest recipes based on what I already have so that I can make use of leftovers instead of buying new items.
-![First Activity Diagram](https://drive.google.com/file/d/1FXWgh8cKQD2Zq8wWlS4GbsLK9FNmI4Bc/view)
+![First Activity Diagram](https://imgur.com/a/RrrtoeY)
 
 2. As a user, I want the app to partner with delivery services like Amazon Fresh so that I can easily purchase any additional ingredients I might need.
-![Second Activity Diagram](https://drive.google.com/file/d/1RAMPNz_-q7mC0Wj25BtKDwQcqUj1o_4N/view)
+![Second Activity Diagram](https://imgur.com/a/ggzoY2X)
 
 ## Wireframe Diagrams
 
+- Login Screen\
+![Login Screen Picture](https://imgur.com/a/nZ6TsGn)
 
 
 ## Clickable Prototype
