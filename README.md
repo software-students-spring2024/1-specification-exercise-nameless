@@ -11,7 +11,7 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-Stakeholders are all either current students or early professions, in their early to mid 20s. 
+Stakeholders are all either current university students or early professions, in their early to mid 20s. 
 
 #### Stakeholder 1: Kang
 
@@ -29,7 +29,7 @@ Stakeholders are all either current students or early professions, in their earl
 #### Stakeholder 3: Jonathan
 
 - "I think I would be interested in trying the app, but not sure if I would come to rely on an app to make recipes with anything I have left over in the fridge."
-- "I f I want to use everything, for instance, I want to use all the food in my fridge before I leave for a trip, then I would be more tempted to use this app to just clear everything out."
+- "If I want to use everything, for instance, I want to use all the food in my fridge before I leave for a trip, then I would be more tempted to use this app to just clear everything out."
 - "Perhaps an app that lets me know what common dishes I can make with the ingredients I already have, and maybe partner it up with delivery services like Amazon Fresh or DoorDash to get the ingredients I would be missing with an easy integration system."
 
 #### Stakeholder 4: Jackie
@@ -40,6 +40,13 @@ Stakeholders are all either current students or early professions, in their earl
 #### Stakeholder 5: Caitlyn
 
 - Worries about the time taken to input ingredients into the app possibly being longer than the amount of time saved by the recipe generating feature.
+
+#### Stakeholder 6: Kiara
+
+- Would like to be aware of ingredients that have been in the fridge the longest and are about to expire.
+- Wants to be aware of nutritional value and calories of the recipes.
+- Hopes that there would be recipes she would not think of herself, that would use up her remaining ingredients before she needs to purchase more.
+- Wants to be able to see recipes that she is only missing a couple ingredients of, so she has the option to either order them or leave them out.
 
 ## Product Vision Statement
 
