@@ -33,15 +33,39 @@ SnapCook aims to transform the culinary experience for young professionals by ge
 ## Activity Diagrams
 
 1. As a user, I want the app to suggest recipes based on what I already have so that I can make use of leftovers instead of buying new items.
-![First Activity Diagram](https://imgur.com/a/RrrtoeY)
+![First Activity Diagram](https://i.imgur.com/ZxWTmUK.jpg)
 
 2. As a user, I want the app to partner with delivery services like Amazon Fresh so that I can easily purchase any additional ingredients I might need.
-![Second Activity Diagram](https://imgur.com/a/ggzoY2X)
+![Second Activity Diagram](https://i.imgur.com/hxsfyl2.jpg)
 
 ## Wireframe Diagrams
 
 - Login Screen\
-![Login Screen Picture](https://imgur.com/a/nZ6TsGn)
+![Login Screen Picture](https://i.imgur.com/DPVbmDx.png)
+
+- Sign Up Popup\
+![Sign Up Popup Picture](https://i.imgur.com/ZGj7faM.png)
+
+- Home Page Screen\
+![Home Page Screen Picture](https://i.imgur.com/LhJUUsZ.png)
+
+- Hamburger Tab\
+![Hamburger Tab Picture](https://i.imgur.com/PEdNBE4.png)
+
+- Fridge Screen\
+![Fridge Screen Picture](https://i.imgur.com/Hv2zkhw.png)
+
+- Camera Scanner Screen\
+![Camera Scanner Picture](https://i.imgur.com/QbBV5rx.png)
+
+- Recipe Page Screen\
+![Recipe Page Screen Picture](https://i.imgur.com/gLW8EcB.png)
+
+- Manual Entry Popup\
+![Manual Entry Popup Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Temp_plate.svg/1280px-Temp_plate.svg.png)
+
+- Buy Ingredients Screen\
+![Buy Ingredients Screen Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Temp_plate.svg/1280px-Temp_plate.svg.png)
 
 
 ## Clickable Prototype
