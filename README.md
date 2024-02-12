@@ -40,34 +40,34 @@ SnapCook aims to transform the culinary experience for young professionals by ge
 
 ## Wireframe Diagrams
 
-- Login Screen\
+- **Login Screen**\
 ![Login Screen Picture](https://i.imgur.com/DPVbmDx.png)
 
-- Sign Up Popup\
+- **Sign Up Popup**\
 ![Sign Up Popup Picture](https://i.imgur.com/ZGj7faM.png)
 
-- Home Page Screen\
+- **Home Page Screen**\
 ![Home Page Screen Picture](https://i.imgur.com/LhJUUsZ.png)
 
-- Hamburger Tab\
+- **Hamburger Tab**\
 ![Hamburger Tab Picture](https://i.imgur.com/PEdNBE4.png)
 
-- Fridge Screen\
+- **Fridge Screen**\
 ![Fridge Screen Picture](https://i.imgur.com/Hv2zkhw.png)
 
-- Camera Scanner Screen\
+- **Camera Scanner Screen**\
 ![Camera Scanner Picture](https://i.imgur.com/QbBV5rx.png)
 
-- Recipe Page Screen\
+- **Recipe Page Screen**\
 ![Recipe Page Screen Picture](https://i.imgur.com/gLW8EcB.png)
 
-- Manual Entry Popup\
+- **Manual Entry Popup**\
 ![Manual Entry Popup Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Temp_plate.svg/1280px-Temp_plate.svg.png)
 
-- Buy Ingredients Screen\
+- **Buy Ingredients Screen**\
 ![Buy Ingredients Screen Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Temp_plate.svg/1280px-Temp_plate.svg.png)
 
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+[Prototype Link](https://www.figma.com/proto/GS531n6T0ztEcfkkNZFTD0/Wireframe-Diagram?page-id=0%3A1&type=design&node-id=16-2&viewport=307%2C732%2C1.14&t=8pS0MLAEoukHVUUW-1&scaling=scale-down&starting-point-node-id=7%3A26&mode=design)
