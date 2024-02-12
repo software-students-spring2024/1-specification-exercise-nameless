@@ -11,7 +11,35 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+Stakeholders are all either current students or early professions, in their early to mid 20s. 
+
+#### Stakeholder 1: Kang
+
+- "How does the app know the expiration date of products without labeled dates?"
+- "Why do I need this app, if I can just check online about recipes on dishes that I like?
+- "I would prefer to shop for some new items to complete the recipe than making edible stuff from leftovers."
+
+#### Stakeholder 2: Paris
+
+- "Do I need to manually input details? I don't want to spend time doing complicated inputs."
+- "Fruits and vegetables are bought with different conditions, how can the app accurately tell when they would go bad?"
+- "It is better to have it remind me how long they have been there, so that I can make better judgement."
+- "If I have something in the fridge that turns bad faster than usual but the app says it is edible, then I get sick after consuming it, would the app take any responsibility?"
+
+#### Stakeholder 3: Jonathan
+
+- "I think I would be interested in trying the app, but not sure if I would come to rely on an app to make recipes with anything I have left over in the fridge."
+- "I f I want to use everything, for instance, I want to use all the food in my fridge before I leave for a trip, then I would be more tempted to use this app to just clear everything out."
+- "Perhaps an app that lets me know what common dishes I can make with the ingredients I already have, and maybe partner it up with delivery services like Amazon Fresh or DoorDash to get the ingredients I would be missing with an easy integration system."
+
+#### Stakeholder 4: Jackie
+
+- Finds it time-consuming to amnually input ingredients into meal planning apps. 
+- Would appreciate an app that could generate recipes by using photos of ingredients currently in the pantry.
+
+#### Stakeholder 5: Caitlyn
+
+- Worries about the time taken to input ingredients into the app possibly being longer than the amount of time saved by the recipe generating feature.
 
 ## Product Vision Statement
 
