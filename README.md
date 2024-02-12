@@ -62,10 +62,10 @@ SnapCook aims to transform the culinary experience for young professionals by ge
     ![Recipe Page Screen Picture](https://i.imgur.com/gLW8EcB.png)
 
 -   **Manual Entry Popup**\
-    ![Manual Entry Popup Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Temp_plate.svg/1280px-Temp_plate.svg.png)
+    ![Manual Entry Popup Picture](https://imgur.com/Q9g5Ztv.png)
 
 -   **Buy Ingredients Screen**\
-    ![Buy Ingredients Screen Picture](https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Temp_plate.svg/1280px-Temp_plate.svg.png)
+    ![Buy Ingredients Screen Picture](https://imgur.com/xxzU0jE.png)
 
 ## Clickable Prototype
 
